@@ -33,3 +33,7 @@ nums2.length == n
 
 Follow up: Can you come up with an algorithm that runs in O(m + n) time?
 */
+
+void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
+    
+}
